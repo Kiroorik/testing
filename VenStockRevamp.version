@@ -1,0 +1,20 @@
+{
+  "NAME": "VenStockRevamp",
+  "URL": "https://github.com/Kiroorik/testing/blob/master/VenStockRevamp.version",
+  "GITHUB":
+    {
+        "USERNAME":"VenVen",
+        "REPOSITORY":"Stock-Revamp",
+        "ALLOW_PRE_RELEASE":false,
+    },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 9,
+	"PATCH": 5
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 1,
+    "PATCH": 3
+  }
+}
